@@ -1,1 +1,2 @@
 # Chash-test
+sample
